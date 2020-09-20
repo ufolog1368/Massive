@@ -113,6 +113,4 @@
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.login>fa2d643d29809aaf9159c7ab9ba8b014e570f178</sonar.login>
     </properties>
-
-
 </project>
