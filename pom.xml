@@ -108,11 +108,9 @@
 
 
     <properties>
-        <sonar.projectKey>ufolog1368_Homework-Project-JavaGuru-course</sonar.projectKey>
+        <sonar.projectKey>ufolog1368_Massive</sonar.projectKey>
         <sonar.organization>ufolog1368</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>8f4121b2886f9f6604a03946e858d25569ee8080</sonar.login>
+        <sonar.login>fa2d643d29809aaf9159c7ab9ba8b014e570f178</sonar.login>
     </properties>
-
-
 </project>
